@@ -1,5 +1,5 @@
 # disone
-dodge the missiles 🎮 (made with BSL)
+![](logo.png)
 
 
 A game I made while taking CPSC 110 at UBC.
