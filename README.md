@@ -1,4 +1,4 @@
-# disone 🎮 
+# Disone 🎮 
 ![](logo.png)
 
 
